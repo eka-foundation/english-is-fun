@@ -17,7 +17,6 @@ There's no way to prevent internal distraction.
 
 And you must eradicate this wandering within.
 
-
 རྣམ་གཡེངས་རྒྱུན་ཐག་མ་བཅད་ན། །
 
 རྩེ་གཅིག་གནས་པའི་སྐབས་མི་རྙེད། །
@@ -33,7 +32,6 @@ You'll never arrive at single-pointed concentration.
 Build a secure dam, therefore, with mindfulness.
 
 And apply vigilance whenever you rest for a while.
-
 
 ཡེངས་མེད་ངང་ལ་རྒྱུན་ཆགས་སུ། །
 
@@ -51,7 +49,6 @@ When it becomes familiar, apply yourself further.
 
 Conquer the enemy, undercurrent thoughts, and generate calm.
 
-
 བརྟན་ནས་ཇི་སྲིད་རྩོལ་མེད་དུ། །
 
 འཇུག་ཅིང་དེ་ལས་ཤིན་སྦྱངས་ཀྱི། །
@@ -67,7 +64,6 @@ Continue until the practice is effortless and you achieve pliancy
 And genuine śamatha—calm abiding.
 
 Apply yourself uninterruptedly, balancing tension and repose.
-
 
 ཡུན་རིང་འབྱོང་དཀའ་ཞུམ་སྲིད་པས། །
 
@@ -88,5 +84,7 @@ Then, in the middle, strive continually without interruption.
 In the end, you'll gain strength and savour the fruits of joy.
 
 This is how your efforts will yield their excellent reward.
+
+<hr>
 
 *Composed on the seventh day of the sixth month.*
